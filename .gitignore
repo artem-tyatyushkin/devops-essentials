@@ -1,6 +1,2 @@
-node_modules
-bower_components
+.idea
 *.iml
-js/*.min.js
-dist
-.DS_Store
